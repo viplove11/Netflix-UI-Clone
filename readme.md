@@ -25,7 +25,7 @@ This project is a clone of the Netflix India website, created using HTML, CSS, a
 
 ## Credits
 
-- **Developer**: [Your Name]
+- **Developer**: Viplove Parsai 
 
 ## License
 
